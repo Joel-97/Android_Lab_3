@@ -10,4 +10,3 @@ class ActivityTest : AppCompatActivity() {
         setContentView(R.layout.activity_test)
     }
 }
-
